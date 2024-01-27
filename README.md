@@ -12,11 +12,11 @@
 
 - ⚡ Fun fact **I'm interested in coding.**
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IT21355882&theme=tokyonight)](https://git.io/praveenscience)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamodyahiruni&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![IT21355882's github stats](https://github-readme-stats.vercel.app/api?username=IT21355882&show_icons=true&theme=tokyonight) | ![IT21355882 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT21355882&theme=tokyonight) |
+| ![chamodyahiruni's github stats](https://github-readme-stats.vercel.app/api?username=chamodyahiruni&show_icons=true&theme=tokyonight) | ![chamodyahiruni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodyahiruni&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21355882&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IT21355882&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight).
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodyahiruni&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=chamodyahiruni&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight).
 
 
 
